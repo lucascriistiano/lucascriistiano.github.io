@@ -9546,10 +9546,12 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   background-color: #3582C4;
 }
 
+/*
 .resume-wrapper {
   padding-top: 30px;
   padding-bottom: 60px;
 }
+*/
 
 .resume-wrapper-inner {
   max-width: 1000px;
